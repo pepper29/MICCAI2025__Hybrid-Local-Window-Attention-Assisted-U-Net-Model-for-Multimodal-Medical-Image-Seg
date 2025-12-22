@@ -1,6 +1,6 @@
 # Feature Representation-Aware Knowledge Distillation for Incomplete Local Information in Federated Learning
 
-> **🚀 Official PyTorch implementation of the paper presented at [MICCAI 2025](https://conferences.miccai.org/2025/).**
+> **🚀 PyTorch implementation of the paper presented at [MICCAI 2025](https://conferences.miccai.org/2025/).**
 
 > **🚀 Paper Link: [https:conferences.miccai.org/2025/](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_22).**
 ### 👋 Introduction
@@ -36,7 +36,7 @@ To solve the performance degradation caused by missing modalities, I proposed tw
 
 # Feature Representation-Aware Knowledge Distillation for Incomplete Local Information in Federated Learning
 
-> **🚀 [MICCAI 2025](https://conferences.miccai.org/2025/)에서 발표된 논문의 공식 PyTorch 구현 저장소입니다.**
+> **🚀 [MICCAI 2025](https://conferences.miccai.org/2025/)에서 발표된 논문의 저장소입니다.**
 
 ### 👋 소개
 
