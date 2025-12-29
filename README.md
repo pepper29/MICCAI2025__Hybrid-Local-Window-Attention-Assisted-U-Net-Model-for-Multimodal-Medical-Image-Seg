@@ -2,7 +2,7 @@
 <div align=center>
   <h1>(MICCAI2025) Hybrid Local Window Attention Assisted U Net - Seyong Jin</h1>
   <img src=framework.png width=800>
-  <p>Official implementation for multimodal medical image segmentation</p>
+  <p>implementation for multimodal medical image segmentation</p>
 </div>
 
 
