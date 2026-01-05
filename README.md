@@ -5,8 +5,6 @@
   <p>implementation for multimodal medical image segmentation</p>
 </div>
 
-This repository provides a partial implementation of the proposed model, not the full source code of the paper.
-
 ## Paper
 Full Paper Link: https://link.springer.com/chapter/10.1007/978-3-032-04937-7_22
 
@@ -95,3 +93,4 @@ Seyong Jin as the second author made significant contributions to this research:
 * Served as the onsite presenter for this research at the MICCAI 2025 conference
 
 
+This repository provides a partial implementation of the proposed model, not the full source code of the paper.
